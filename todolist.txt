@@ -1,0 +1,11 @@
+TODO:+++++++++++++++++++++++++++++++++++++++
+add password access
+add accounts
+add movies
+install database
+add images to icons
+fix menu
+make logo
+
+DONE:++++++++++++++++++++++++++++++++++++++++
+add background image
