@@ -1,5 +1,4 @@
 <?php
-echo "checking";
 
 if($_POST["userName"] == "brody" && $_POST["password"] == bro){
 

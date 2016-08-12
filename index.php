@@ -2,6 +2,8 @@
 <!DOCtype html>
 
 
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,9 +41,9 @@
             width: 90%;
             height: 1000px;
             border-style: solid;
-            border-color: green;
+            border-color: black;
             margin-left: 5%;
-            background-color: black;
+            background-color: white;
 
 
 

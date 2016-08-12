@@ -8,9 +8,10 @@
         margin-left: 5%;
         margin-right: 5%;
         width: 90%;
-
+        border-style: solid;
+        border-color: black;
         height: 1500px;
-        background-color: black;
+        background-color: white;
 
 
 
